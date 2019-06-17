@@ -23,9 +23,17 @@ Publication Date [DP]
 2800 万を超える生物医学論 文を検索するための検索エンジン
 米国国立 医学図書館による世界最大のデータベースに含ま れた “ 論文抄録のみ ” を検索している
 
+https://www.ncbi.nlm.nih.gov/pubmed?otool=ijpkanulib
+
+
+
 #### Google Scholar
 Google が提供する、論文や書籍に特化した検索 エンジン
 2014 年時点で 1600 万程度の論文等を検索 可能と推定
+
+https://scholar.google.co.jp/
+
+
 
 #### 医中誌
 医学中央雑誌刊行会が運営している
